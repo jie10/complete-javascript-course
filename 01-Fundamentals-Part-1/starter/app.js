@@ -1,5 +1,6 @@
 "use strict"
 
+/**
 // * Variables & Values
 // * data types
 
@@ -27,3 +28,23 @@ console.log(typeof isUndefined)
 let isNull = null
 console.log(isNull)
 console.log(typeof isNull)
+ */
+
+
+// * let, const & var
+
+// * let - Can be change later
+let firstName = "Jie"
+console.log(firstName)
+firstName = "Jie2"
+console.log(firstName)
+
+// * const - Cannot be change later
+const lastName = "Jie"
+console.log(lastName)
+
+// * var - Can be change later
+var age = 21
+console.log(age)
+age = 22
+console.log(age)
