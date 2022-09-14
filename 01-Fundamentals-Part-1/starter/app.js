@@ -1,6 +1,7 @@
 "use strict"
 
 // * Variables & Values
+// * data types
 
 // String
 let firstName = "Jie"
